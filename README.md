@@ -15,8 +15,8 @@ https://scikit-learn.org/stable/datasets/toy_dataset.html#iris-dataset
 3. Open the notebook in Jupyter or Google Colab and click Run all.
 
 ## Results
-- Decision Tree accuracy: ___%
-- KNN accuracy: ___%
+- Decision Tree accuracy: 100%
+- KNN accuracy: 100%
 - Confusion matrices for both models are shown in the notebook.
 
 ## Conclusion
